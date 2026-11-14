@@ -1,0 +1,42 @@
+---
+document: Store Policy - Returns, Delivery, Payment and Warranty
+company: Niaz Men's Wear
+doc_type: policy
+policy_version: 3.0
+effective_date: 2026-09-01
+status: CURRENT
+supersedes: policy v2.1 (archived)
+---
+
+# Store Policy - Version 3.0 (CURRENT)
+
+Version: 3.0 | Effective date: 1 September 2026 | Status: CURRENT
+
+This is the policy in force today. It replaced Version 2.1 on 1 September 2026. For any question about current rules, use this document.
+
+## 1. Returns and Exchanges
+1.1 Customers may return or exchange an unused item within 7 days of the purchase or delivery date.
+1.2 The item must be unworn, in its original condition, with tags attached and the receipt or order number.
+1.3 Approved returns are refunded to the original payment method within 5 working days. A customer may choose store credit instead, valid for 6 months.
+1.4 Exchanges for a different size or colour are free, subject to stock.
+
+## 2. Exceptions to the Return Rules
+2.1 Custom-stitched shalwar qameez cannot be returned or exchanged because they are made to individual measurements. The only exception is a stitching or fabric defect, which must be reported within 48 hours of receiving the order. The suit will then be corrected or re-made at no cost.
+2.2 Watches can be returned within 7 days only if the box seal is unbroken and the watch has not been worn. Once the seal is opened, a watch can only be handled through the warranty (Section 5).
+2.3 Clearance items (marked "Clearance" on the tag) can be exchanged within 7 days but cannot be refunded.
+
+## 3. Delivery
+3.1 Delivery fee: PKR 250 per order.
+3.2 Delivery is free for orders of PKR 5,000 or more (the total after any discounts).
+3.3 Delivery time: 2 working days in Lahore and Rawalpindi; 3 to 5 working days to other cities in Pakistan.
+3.4 Custom-stitched items are delivered after the stitching time ends.
+
+## 4. Payment
+4.1 Accepted methods: cash, debit and credit cards, JazzCash, Easypaisa, and bank transfer.
+4.2 Cash on delivery (COD) is available for orders up to PKR 25,000. Orders above this amount must be paid in advance.
+4.3 Custom-stitched orders require a 50% advance payment.
+
+## 5. Warranty
+5.1 Watches have a 12-month warranty from the purchase date against manufacturing defects.
+5.2 Shoes and sandals have a 30-day warranty on sole and stitching defects.
+5.3 The warranty does not cover water damage beyond the stated water resistance, accidental damage, or normal wear.

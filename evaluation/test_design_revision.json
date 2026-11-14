@@ -1,0 +1,40 @@
+{
+  "reason": "The original custom-suit price/advance question could be solved from the operations document alone: PKR 3,750 / 50% = PKR 7,500. Requiring a separate catalog citation made this an invalid two-document test. Revised M1 to ask watch price and current warranty, which genuinely require catalog and policy. New expectation written before running the revised test. All other cases unchanged. Prior raw runs retained; final exports use the revised question consistently for every k and chunk setting.",
+  "original_case": {
+    "id": "M1",
+    "category": "multi_document",
+    "question": "What does a custom-stitched suit cost, and how much advance do I pay?",
+    "expected_answer": "PKR 7,500 per suit; 50% advance, which is PKR 3,750.",
+    "expected_sources": [
+      "02_products_catalog.txt",
+      "03_policy_current_v3.txt"
+    ],
+    "expected_source_groups": [
+      [
+        "02_products_catalog.txt"
+      ],
+      [
+        "03_policy_current_v3.txt",
+        "05_operations_and_faqs.txt"
+      ]
+    ]
+  },
+  "revised_case": {
+    "id": "M1",
+    "category": "multi_document",
+    "question": "What is the price of the Orion Automatic Watch, and how long is its current manufacturing-defect warranty?",
+    "expected_answer": "PKR 18,500; a 12-month warranty from purchase against manufacturing defects.",
+    "expected_sources": [
+      "02_products_catalog.txt",
+      "03_policy_current_v3.txt"
+    ],
+    "expected_source_groups": [
+      [
+        "02_products_catalog.txt"
+      ],
+      [
+        "03_policy_current_v3.txt"
+      ]
+    ]
+  }
+}

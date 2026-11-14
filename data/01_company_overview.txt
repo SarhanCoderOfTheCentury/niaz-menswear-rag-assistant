@@ -1,0 +1,41 @@
+---
+document: Company Overview
+company: Niaz Men's Wear
+doc_type: overview
+last_updated: 2026-09-01
+---
+
+# Niaz Men's Wear - Company Overview
+
+## About Us
+Niaz Men's Wear is a family-owned menswear retailer based in Lahore, Pakistan. The shop was founded in 2011 by Haji Niaz Ahmed and is now run by his son, Bilal Niaz. We sell five product lines: shoes, jackets, sandals, shalwar qameez, and watches. Our aim is to offer good-quality, honestly priced clothing and accessories for everyday wear, office wear, and weddings.
+
+The store has 14 staff members, including four tailors who work on custom-stitched shalwar qameez orders.
+
+## Locations
+- Main Store: Shop 14, Liberty Market, Gulberg III, Lahore. This is our flagship store, and the tailoring workshop is located here.
+- Branch Store: Shop 7, Bahria Town Commercial Area, Phase 4, Rawalpindi. This branch sells ready-made items only. Custom stitching orders can be placed at the Rawalpindi branch, but they are sent to the Lahore workshop.
+- Online: Orders are accepted by phone, WhatsApp, and our website, www.niazmenswear.example.
+
+## Opening Hours
+| Day | Main Store (Lahore) | Branch (Rawalpindi) |
+|---|---|---|
+| Monday to Saturday | 11:00 AM - 9:00 PM | 12:00 PM - 9:00 PM |
+| Sunday | 2:00 PM - 8:00 PM | Closed |
+
+- On Fridays, both stores close from 1:00 PM to 2:30 PM for Jumma prayers.
+- During Ramadan, both stores open at 12:00 PM and close at 11:30 PM, with a break at sunset for Iftar.
+- Both stores are closed on Eid-ul-Fitr and Eid-ul-Adha (first day only), and on 14 August (Independence Day).
+
+## Contact Details
+- Phone (Lahore): 042-3555-0142
+- Phone (Rawalpindi): 051-5550-0198
+- WhatsApp orders: 0300-5550142 (messages answered 11:00 AM to 9:00 PM)
+- Email: support@niazmenswear.example
+- Warranty and complaints email: care@niazmenswear.example
+
+## Who Uses This Assistant
+This assistant is meant for Niaz Men's Wear sales staff and customer-support staff. It helps them quickly answer customer questions about products, prices, store timings, policies, and procedures. Staff should always check the source document shown with each answer.
+
+## Our Values
+We believe in clear prices, no hidden charges, and honest advice. Staff are trained to recommend the right size and the right product rather than the most expensive one. Customer feedback is reviewed every month by the owner.

@@ -1,0 +1,69 @@
+---
+document: Products and Services Catalog
+company: Niaz Men's Wear
+doc_type: products
+last_updated: 2026-09-01
+prices_currency: PKR
+---
+
+# Niaz Men's Wear - Products and Services Catalog
+
+All prices are in Pakistani Rupees (PKR), include sales tax, and were last updated on 1 September 2026. Product codes are used on invoices and WhatsApp orders.
+
+## Shoes
+
+### Classic Leather Oxford (NMW-SH-101)
+Formal lace-up shoe made of genuine cow leather with a leather lining and a rubber-leather sole. Available in black and brown, sizes 40 to 45. Price: PKR 8,500. Good for offices and weddings.
+
+### Suede Chelsea Boots (NMW-SH-102)
+Ankle boots with elastic side panels, made of suede in tan and charcoal. Sizes 40 to 45. Price: PKR 9,800. Suede should be kept away from water.
+
+### Canvas Casual Sneakers (NMW-SH-103)
+Lightweight everyday sneakers in white, navy, and grey. Sizes 39 to 45. Price: PKR 4,200.
+
+## Jackets
+
+### Winter Puffer Jacket (NMW-JK-201)
+Water-resistant nylon shell with polyester filling, a detachable hood, and two zip pockets. Colours: navy and black. Sizes S to XXL. Price: PKR 12,500.
+
+### Leather Biker Jacket (NMW-JK-202)
+Genuine sheepskin leather jacket in black, with a quilted lining and a zip front. Sizes M to XL only. Price: PKR 24,000. This is our most expensive item.
+
+### Denim Jacket (NMW-JK-203)
+Classic mid-blue denim jacket made of 100% cotton. Sizes S to XL. Price: PKR 6,500.
+
+## Sandals
+
+### Peshawari Chappal (NMW-SD-301)
+Handmade traditional leather chappal with a durable tyre-rubber sole. Sizes 40 to 45. Price: PKR 3,800. Popular with shalwar qameez.
+
+### Open-Toe Leather Sandal (NMW-SD-302)
+Comfortable leather sandal with an adjustable buckle strap and a cushioned insole. Colours: brown and black. Sizes 40 to 45. Price: PKR 2,900.
+
+## Shalwar Qameez
+
+### Ready-Made Cotton Shalwar Qameez (NMW-SQ-401)
+Summer-weight cotton suit in white, cream, sky blue, and light grey. Sizes S to XXL. Price: PKR 4,800.
+
+### Premium Wash-and-Wear Shalwar Qameez (NMW-SQ-402)
+Crease-resistant blended fabric that needs little ironing. Colours: black, charcoal, and brown. Sizes S to XXL. Price: PKR 5,900.
+
+### Custom-Stitched Shalwar Qameez (NMW-SQ-403)
+Made to your measurements in our Lahore workshop using fabric chosen from our collection. Price: PKR 7,500 per suit. Standard stitching time is 5 working days. See the Operations document for the measurement and advance payment procedure.
+
+## Watches
+
+### Orion Automatic Watch (NMW-WT-501)
+Self-winding mechanical watch with a stainless-steel case and a sapphire-coated glass. Water resistance: 50 metres. Price: PKR 18,500.
+
+### Classic Quartz Leather-Strap Watch (NMW-WT-502)
+Everyday quartz watch with a black dial, a date window, and a brown leather strap. Water resistance: 30 metres. Price: PKR 6,500.
+
+## Additional Services
+- Custom stitching: described above (PKR 7,500 per suit, 5 working days).
+- Rush stitching: completion in 48 hours for an extra PKR 1,500 per suit.
+- Shalwar length alteration: hemming of purchased trousers or shalwar is done free of charge while you wait.
+- Wedding bulk orders: a discount of 8% is offered on orders of 10 or more shalwar qameez suits (ready-made or custom-stitched) placed at the same time.
+
+## Size Guide for Shoes
+Our shoe sizes follow European numbering. A size 42 corresponds to approximately a foot length of 26.5 cm. If you are between two sizes, we suggest choosing the larger size for Chelsea boots and the smaller size for the Peshawari Chappal, since leather stretches.

@@ -1,0 +1,10 @@
+{
+  "completed": 53,
+  "api_errors": 0,
+  "final_passed": 20,
+  "final_total": 20,
+  "experiments": 33,
+  "model": "gemini-3.5-flash-lite",
+  "fingerprint": "e4a2fb14345d75dc532ea007",
+  "grader": "Separate Gemini call + programmatic source/refusal/injection checks"
+}

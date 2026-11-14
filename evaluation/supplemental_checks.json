@@ -1,0 +1,208 @@
+[
+  {
+    "name": "live_policy_mutation",
+    "pass": true,
+    "old_fingerprint": "e4a2fb14345d75dc532ea007",
+    "new_fingerprint": "c32843dcc897915eb7e895d4",
+    "actual": {
+      "question": "What is the current return window for an unused ready-made item?",
+      "answer": "The current return window for an unused ready-made item is within 9 days of the purchase or delivery date. [1]",
+      "status": "answered",
+      "sources": [
+        {
+          "chunk_id": "e076e813406cf5ad0c637114",
+          "filename": "03_policy_current_v3.txt",
+          "excerpt": "Customers may return or exchange an unused item within 9 days of the purchase or delivery date.",
+          "metadata": {
+            "source": "03_policy_current_v3.txt",
+            "doc_type": "policy",
+            "status": "current",
+            "document": "Store Policy - Returns, Delivery, Payment and Warranty",
+            "company": "Niaz Men's Wear",
+            "policy_version": "3.0",
+            "effective_date": "2026-09-01",
+            "supersedes": "policy v2.1 (archived)",
+            "section": "1. Returns and Exchanges",
+            "position": 1
+          }
+        }
+      ],
+      "retrieved": [
+        {
+          "id": "a443419e01a0dea8d24ed525",
+          "text": "## Procedure 3: Handling a Return or Exchange\n1. Ask for the receipt or order number.\n2. Check that the item is unworn, has its tags, and is within the return window.\n3. Check whether an exception applies (custom-stitched, watch with opened seal, or clearance item).\n4. Approve the return, process the refund or exchange, and note the reason in the return register.\n5. Items that look worn or damaged are sent to the manager for a decision.",
+          "metadata": {
+            "source": "05_operations_and_faqs.txt",
+            "doc_type": "operations_faq",
+            "status": "reference",
+            "document": "Operations Procedures and FAQs",
+            "company": "Niaz Men's Wear",
+            "last_updated": "2026-09-01",
+            "section": "Procedure 3: Handling a Return or Exchange",
+            "position": 3
+          },
+          "score": 0.032266,
+          "similarity": 0.6532
+        },
+        {
+          "id": "e076e813406cf5ad0c637114",
+          "text": "## 1. Returns and Exchanges\n1.1 Customers may return or exchange an unused item within 9 days of the purchase or delivery date.\n1.2 The item must be unworn, in its original condition, with tags attached and the receipt or order number.\n1.3 Approved returns are refunded to the original payment method within 5 working days. A customer may choose store credit instead, valid for 6 months.\n1.4 Exchanges for a different size or colour are free, subject to stock.",
+          "metadata": {
+            "source": "03_policy_current_v3.txt",
+            "doc_type": "policy",
+            "status": "current",
+            "document": "Store Policy - Returns, Delivery, Payment and Warranty",
+            "company": "Niaz Men's Wear",
+            "policy_version": "3.0",
+            "effective_date": "2026-09-01",
+            "supersedes": "policy v2.1 (archived)",
+            "section": "1. Returns and Exchanges",
+            "position": 1
+          },
+          "score": 0.032258,
+          "similarity": 0.678
+        },
+        {
+          "id": "44b053723e9c70809dfbc4f5",
+          "text": "# Store Policy - Version 3.0 (CURRENT)\n\nVersion: 3.0 | Effective date: 1 September 2026 | Status: CURRENT\n\nThis is the policy in force today. It replaced Version 2.1 on 1 September 2026. For any question about current rules, use this document.",
+          "metadata": {
+            "source": "03_policy_current_v3.txt",
+            "doc_type": "policy",
+            "status": "current",
+            "document": "Store Policy - Returns, Delivery, Payment and Warranty",
+            "company": "Niaz Men's Wear",
+            "policy_version": "3.0",
+            "effective_date": "2026-09-01",
+            "supersedes": "policy v2.1 (archived)",
+            "section": "Store Policy - Version 3.0 (CURRENT)",
+            "position": 0
+          },
+          "score": 0.031498,
+          "similarity": 0.6447
+        },
+        {
+          "id": "2d6df26e1b8e1bbfd1666c3f",
+          "text": "## 2. Exceptions to the Return Rules\n2.1 Custom-stitched shalwar qameez cannot be returned or exchanged because they are made to individual measurements. The only exception is a stitching or fabric defect, which must be reported within 48 hours of receiving the order. The suit will then be corrected or re-made at no cost.\n2.2 Watches can be returned within 7 days only if the box seal is unbroken and the watch has not been worn. Once the seal is opened, a watch can only be handled through the warranty (Section 5).\n2.3 Clearance items (marked \"Clearance\" on the tag) can be exchanged within 7 days but cannot be refunded.",
+          "metadata": {
+            "source": "03_policy_current_v3.txt",
+            "doc_type": "policy",
+            "status": "current",
+            "document": "Store Policy - Returns, Delivery, Payment and Warranty",
+            "company": "Niaz Men's Wear",
+            "policy_version": "3.0",
+            "effective_date": "2026-09-01",
+            "supersedes": "policy v2.1 (archived)",
+            "section": "2. Exceptions to the Return Rules",
+            "position": 2
+          },
+          "score": 0.030478,
+          "similarity": 0.7191
+        },
+        {
+          "id": "b4763fd4191edabb057f1ac3",
+          "text": "### Ready-Made Cotton Shalwar Qameez (NMW-SQ-401)\nSummer-weight cotton suit in white, cream, sky blue, and light grey. Sizes S to XXL. Price: PKR 4,800.",
+          "metadata": {
+            "source": "02_products_catalog.txt",
+            "doc_type": "products",
+            "status": "reference",
+            "document": "Products and Services Catalog",
+            "company": "Niaz Men's Wear",
+            "last_updated": "2026-09-01",
+            "prices_currency": "PKR",
+            "section": "Ready-Made Cotton Shalwar Qameez (NMW-SQ-401)",
+            "position": 13
+          },
+          "score": 0.029274,
+          "similarity": 0.6112
+        }
+      ],
+      "scope": "current",
+      "as_of": null,
+      "mode": "hybrid",
+      "seconds": 9.15,
+      "validation_note": "All cited IDs and verbatim excerpts matched retrieved evidence."
+    },
+    "note": "Only a temporary copy changed from 7 to 9 days. Production source files were preserved."
+  },
+  {
+    "name": "unresolved_same_scope_conflict",
+    "pass": true,
+    "actual": {
+      "question": "What is the current return window?",
+      "answer": "There are two contradictory current return policies of equal authority, one stating a 9-day return window and the other stating a 7-day return window, and no document establishes priority. [1, 2]",
+      "status": "conflict",
+      "sources": [
+        {
+          "chunk_id": "5ae4a6e59791000de2181821",
+          "filename": "policy_b.txt",
+          "excerpt": "Unused ready-made items may be returned within 9 days of purchase.\nThis current policy has the same authority as the other current returns policy.\nNo document establishes which of the two contradictory windows has priority.",
+          "metadata": {
+            "source": "policy_b.txt",
+            "doc_type": "policy",
+            "status": "current",
+            "document": "Store Returns Policy",
+            "policy_version": "3.0",
+            "effective_date": "2026-09-01",
+            "section": "Returns",
+            "position": 0
+          }
+        },
+        {
+          "chunk_id": "6b56a416b10a3ef735f513d1",
+          "filename": "policy_a.txt",
+          "excerpt": "Unused ready-made items may be returned within 7 days of purchase.\nThis current policy has the same authority as the other current returns policy.\nNo document establishes which of the two contradictory windows has priority.",
+          "metadata": {
+            "source": "policy_a.txt",
+            "doc_type": "policy",
+            "status": "current",
+            "document": "Store Returns Policy",
+            "policy_version": "3.0",
+            "effective_date": "2026-09-01",
+            "section": "Returns",
+            "position": 0
+          }
+        }
+      ],
+      "retrieved": [
+        {
+          "id": "5ae4a6e59791000de2181821",
+          "text": "## Returns\nUnused ready-made items may be returned within 9 days of purchase.\nThis current policy has the same authority as the other current returns policy.\nNo document establishes which of the two contradictory windows has priority.",
+          "metadata": {
+            "source": "policy_b.txt",
+            "doc_type": "policy",
+            "status": "current",
+            "document": "Store Returns Policy",
+            "policy_version": "3.0",
+            "effective_date": "2026-09-01",
+            "section": "Returns",
+            "position": 0
+          },
+          "score": 0.016393,
+          "similarity": 0.7316
+        },
+        {
+          "id": "6b56a416b10a3ef735f513d1",
+          "text": "## Returns\nUnused ready-made items may be returned within 7 days of purchase.\nThis current policy has the same authority as the other current returns policy.\nNo document establishes which of the two contradictory windows has priority.",
+          "metadata": {
+            "source": "policy_a.txt",
+            "doc_type": "policy",
+            "status": "current",
+            "document": "Store Returns Policy",
+            "policy_version": "3.0",
+            "effective_date": "2026-09-01",
+            "section": "Returns",
+            "position": 0
+          },
+          "score": 0.016129,
+          "similarity": 0.7273
+        }
+      ],
+      "scope": "current",
+      "as_of": null,
+      "mode": "hybrid",
+      "seconds": 2.17,
+      "validation_note": "All cited IDs and verbatim excerpts matched retrieved evidence."
+    },
+    "note": "Synthetic, isolated test policies with equal version/date/authority."
+  }
+]
